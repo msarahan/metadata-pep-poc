@@ -1,0 +1,12 @@
+[submodule "pip"]
+	path = pip
+	url = git@github.com:msarahan/pip.git
+[submodule "devpi"]
+	path = devpi
+	url = git@github.com:msarahan/devpi.git
+[submodule "metadata-pep-poc-build-backend"]
+	path = metadata-pep-poc-build-backend
+	url = git@github.com:msarahan/metadata-pep-poc-build-backend.git
+[submodule "build-backend"]
+	path = build-backend
+	url = git@github.com:msarahan/metadata-pep-poc-build-backend.git
